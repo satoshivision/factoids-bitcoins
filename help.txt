@@ -1,0 +1,1 @@
+I am a bot serving factoids (about Bitcoin), say "`FACTOID" for example say `satoshi or `bcash or `spv. See `edit to edit/add factoids.

@@ -1,0 +1,4 @@
+Bitcoin fees can be costly (say ";;fees" to see) because BTC is popular
+and block space must be always limited.
+We can NOT just increase block size - it's insecure in long run, see `blocksize.
+Solutions: layer1: `segwit `schnorr , and on layer2: `ln.
