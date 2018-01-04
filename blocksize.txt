@@ -1,11 +1,14 @@
 Bitcoin max blocksize was increased in 2017.08 to 1.7 MB.
 
 Increasing block size forever to "scale" is bad idea:
-eventually everyone would run `spv wallet instead `fullnode
-since it's comfortable (`bigblocks-nodes).
+demand for blocks is unbound (micro-transactions), 8, 32, 1000 MB
+so
+eventually everyone would run `spv
+wallet
+as
+`fullnode will become too hard (network, cpu cost).
 
 This gives up on money that everyone can verify (`satoshivision)
-
 and is very insecure (`spv).
 
 
