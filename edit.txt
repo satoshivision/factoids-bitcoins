@@ -1,1 +1,1 @@
-Factoids data can be viewed, listed, edited/added on https://github.com/satoshivision/factoids-bitcoins ; Just make a Pull Request there; Or poke here my owners <marsadm> <rfree_irc>.
+Factoids data can be viewed, edited/added on https://github.com/satoshivision/factoids-bitcoins ; Just make a Pull Request there ; Join #satoshivision to test or request changes ; Or poke my owners <marsadm> <rfree_irc>.
