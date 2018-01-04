@@ -1,0 +1,7 @@
+In network based on `spv wallets all the trust hinges on:
+the miners (80% owned by 2-3 people)
+the SPV servers like ElectrumX (around 10 maybe 20)
+perhaps big exchanges (few people).
+If they are forced or choose to allow it, then all `spv users
+will accept invalid blocks forever.
+This is very centralized situation.

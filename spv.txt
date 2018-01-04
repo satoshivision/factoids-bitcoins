@@ -1,0 +1,10 @@
+SPV (light wallets) do not check validity of blocks.
+
+This allow miners to produce invalid blocks
+in which they print money for themselves
+and merchants on SPV will not realize payment is worthless.
+
+If majority of users uses spv (see `bigblocks)
+then miners can get away with it -
+the last `fullnode honest users will be forced
+to give up too (or be "hardforked" away)

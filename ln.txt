@@ -1,0 +1,6 @@
+LN (Lightning Network) works like zero-cost instant cash-layer on top of the Bitcoin.
+It is a layer2 solution.
+It is now in development,
+though first commercial tx was already done (to Bitrefil).
+Join #lnd and #lightning-dev.
+Install and use on testnet, report bugs, learn how to use, to make it a reality faster.

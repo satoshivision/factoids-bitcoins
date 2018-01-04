@@ -1,0 +1,5 @@
+For fast payment network based on Bitcoin you can use Lightning Network (see `ln)
+or
+payment channels.
+They allow UNLIMITED transactions, e.g. billions tx per day, even down to zero fee
+(if you open channel to, or near your usuall sender/recipient).
