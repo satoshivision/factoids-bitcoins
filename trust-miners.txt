@@ -1,0 +1,12 @@
+Some could propose to ONLY trust miners and give up on checking
+blocks they produce (`spv wallets do that).
+
+Miners already proven they will gladly exploit network
+to get more money, when they let BCH drop difficulty (EDA)
+over 500% more then normal level, to inflate money by 180%,
+by cooperation of over 80% hashpower.
+
+Therefore we can never trust them;
+anyway that would CENTRALIZE (3-4 companies). 
+
+

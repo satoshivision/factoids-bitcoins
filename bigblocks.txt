@@ -1,0 +1,1 @@
+Bigblocks are the lazy solution to Bitcoin scaling (just increase block size to 8, 32 or 1000 MB) that gives up on decentralization to give you temporary lower onchain transaction `fees. It causes users to move to `spv wallets and lose security and decentralization (also `spv-central)

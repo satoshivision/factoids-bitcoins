@@ -1,0 +1,1 @@
+Running fullnode requires downloading and checking around 200 GB of data (2018 year), but guarantees you have real Bitcoin not fake one (see `spv)
