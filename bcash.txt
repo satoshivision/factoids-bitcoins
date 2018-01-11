@@ -1,0 +1,13 @@
+Bcash (BCH, a.k.a "Bitcoin-Cash", do NOT confuse with the `Bitcoin)
+is an altcoin
+(or rather forkcoin)
+that was created as hardfork
+
+that rejected Bitcoin update of `segwit
+
+and also changed difficulty formula to keep mining on same PoW.
+
+Many of it's supporters are loudly spreading `FUD about Bitcoin,
+lead by Roger Ver.
+
+[see `shills]
