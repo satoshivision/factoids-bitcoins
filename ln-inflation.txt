@@ -1,0 +1,14 @@
+LN tx (transactions) are literally just Bitcoin on-chain (`L1) transatcions,
+just with deferred publication time.
+
+So they have identical money supply as BTC,
+they ARE Bitcoin
+(are NOT other tokens nor IOU).
+
+Also opening channel (L1->L2 tx) doesn't cause any inflation
+even momentary:
+before LN users accept L2 tx they will wait to see the L1 transaction,
+so same 1 coin can NOT continue to be used on L1 while it is moved to L2.
+
+[also: `FUD]
+
