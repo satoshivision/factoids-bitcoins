@@ -1,16 +1,14 @@
 Call to authority is
 a fallacy
-where one can not defend his arguments
-in any logical way
-other then by saying that some respected person said it too.
+of stating that because "respected person" said something it must be true.
 
-This is not always true implication, because:
-the person can be quoted out of context (see `whitepaper),
-the conditions could have changed over years (again `whitepaper),
-person could be mistaken in given instance,
-and anyway a truthful statement can be logically explained
-using other facts.
+It is incorrect since:
+the person can be quoted out of context,
+the conditions could have changed over years,
+person could be mistaken,
 
-It's often used by `bcash shills to spread `FUD.
+Chence acquisition of the @bitcoin twitter, blockexplorer.com, bitcoin.com
+by `shills of bcash.
 
-[see `fallacy-undefined]
+Truthful statement can be logically explained on own merit.
+
