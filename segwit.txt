@@ -1,0 +1,14 @@
+SegWit is a new format of transactions
+that makes it easier to construct
+signatures
+e.g. used for `LN.
+
+(Fixes malleability;
+easier hardware-wallets).
+
+Added in BIP-141 (`BIP).
+
+Enemies of Bitcoin are spreading `FUD
+about it,
+like:
+`segwit-steal
