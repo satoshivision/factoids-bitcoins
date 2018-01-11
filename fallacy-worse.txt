@@ -1,0 +1,18 @@
+Fallacy of claiming it's worse in Bitcoin (while it is not),
+as used by some trolls,
+is method of `FUD where:
+1. you claim that it's horrible that problem X exists in solution A
+2. but you hide the fact that same problem X exists also on your solution B
+(and is considered there irrevelant usually)
+3. and you anyway proceed to say that we need to switch to your solution B
+even though it doesn't help X
+;
+
+Example: 
+`segwit-steal
+saying that SegWit is insecure because we can revert past half-year of blocks
+and steal from it,
+while ignoring it's considered impossible to do such revert
+and that it would be as terrible to do on non-SegWit as well.
+
+[See: `fallacy]

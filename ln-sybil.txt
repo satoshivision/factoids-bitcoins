@@ -1,19 +1,10 @@
-Some people spreading `FUD about bitcoin and `LN
+Some people spread `FUD about bitcoin and `LN
 write about imaginary
 "Sybil attack"
-on LN.
+but fail to define it in detail.
 
 There is no such attack.
 
-At most they paste scientific-sounding terms
-like
-"avg. node distance"
-but 
-without any logical sense;
-it is all just `mumbojumbo.
-
-They refuse to define what they mean by such attack
-in detail,
-therefore
-can be ignored as trolls.
+This is example of `fallacy-undefined
+and does not need further explanation therefore.
 

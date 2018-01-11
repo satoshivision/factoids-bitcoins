@@ -1,10 +1,19 @@
 Fallacy of undefined attack, as used by some trolls, is method of `FUD where:
 1. you claim there is some attack or problem
-2. you paste some smart-sounding terms
-3. you refuse to say how actually the attack would work
+2. you paste some smart-sounding terms, PDFs, YT vids of conferences (call to authority)
+3. you refuse to say how actually the attack would work or apply in this instance
+;
 
 Example: saying that `LN is vulnerable to Sybil just because Sybil
 would be dangerous in routing-anonymity networks like Freenet,
-but refusing to explain the attack in detail.
+but refusing to explain in detail why would that
+at all matter in LN
+which does not have goal of IP anonymity
+in its routing.
+
+It is all just `mumbojumbo
+therefore
+can be ignored as trolling.
+
 
 [See: `dymurray]
