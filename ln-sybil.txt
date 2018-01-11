@@ -1,14 +1,19 @@
 Some people spreading `FUD about bitcoin and `LN
-are spreading lies that there is
-some
+write about imaginary
 "Sybil attack"
 on LN.
 
-They always refuse to define what they mean by such attack,
-therefore
-can be ignored as trolls.
+There is no such attack.
 
 At most they paste scientific-sounding terms
 like
 "avg. node distance"
-but it is all just `mumbojumbo.
+but 
+without any logical sense;
+it is all just `mumbojumbo.
+
+They refuse to define what they mean by such attack
+in detail,
+therefore
+can be ignored as trolls.
+
