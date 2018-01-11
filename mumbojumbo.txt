@@ -1,0 +1,20 @@
+Sometimes enemies of Bitcoin will spread `FUD
+by saying random words that make no technical sense.
+
+They take smart-sounding terms like
+"Sybil attack"
+or
+"Graph distance avg."
+
+and mix them together with no logical connection,
+adding something derogative at end like
+"inflation"
+or
+"centralized".
+
+It is also a tactics that `faketoshi uses to
+write his
+"science papers"
+usually.
+
+[See also `dymurray and `FUD for examples]
