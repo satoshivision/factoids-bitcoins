@@ -1,0 +1,10 @@
+Fallacy of undefined attack, as used by some trolls, is method of `FUD where:
+1. you claim there is some attack or problem
+2. you paste some smart-sounding terms
+3. you refuse to say how actually the attack would work
+
+Example: saying that `LN is vulnerable to Sybil just because Sybil
+would be dangerous in routing-anonymity networks like Freenet,
+but refusing to explain the attack in detail.
+
+[See: `dymurray]
