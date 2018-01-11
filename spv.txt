@@ -1,6 +1,6 @@
 SPV (light wallets) do not check validity of blocks.
 
-This allow miners to produce invalid blocks
+This allows miners to produce invalid blocks
 in which they print money for themselves
 and merchants on SPV will not realize payment is worthless.
 
