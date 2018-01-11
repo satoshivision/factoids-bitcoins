@@ -1,6 +1,6 @@
-Fallacy of undefined attack, as used by some trolls, is method of `FUD where:
+Fallacy of undefined problem, as used by some trolls, is method of `FUD where:
 1. you claim there is some attack or problem
-2. you paste some smart-sounding terms, PDFs, YT vids of conferences (call to authority)
+2. you paste some smart-sounding terms, PDFs, YT vids of conferences (`fallacy-authority)
 3. you refuse to say how actually the attack would work or apply in this instance
 ;
 
