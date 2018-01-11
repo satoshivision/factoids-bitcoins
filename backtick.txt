@@ -1,0 +1,5 @@
+Backtick character (`) is the one that activates me (the bot).
+Type `edit.
+This character is usually located on keyboard along with tilda (~) key,
+next to key "1" or to ENTER.
+On some laptops you need to press "Fn" and tilda "~" at once.
