@@ -1,6 +1,6 @@
 Bcash (BCH, a.k.a "Bitcoin-Cash", do NOT confuse with the `Bitcoin)
 is an altcoin
-(or rather forkcoin)
+(or rather `forkcoin)
 that was created as hardfork
 
 that rejected Bitcoin update of `segwit

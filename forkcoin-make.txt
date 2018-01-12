@@ -1,0 +1,10 @@
+To make a `forkcoin you clone and modify the Bitcoin (bitcoin core)
+and when it is used you get own p2p net/blockchain.
+
+Bad idea but if you must:
+
+1. change consensus so that starting at given fork-point block number your new rules you invented are used
+2. add `replay protection
+3. change port number(s)
+4. change address format(s)
+5. change PoW to other algo or to merge-mining

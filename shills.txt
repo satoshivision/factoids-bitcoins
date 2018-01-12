@@ -1,6 +1,10 @@
 Shills are people who
 spread lies on given topic
-even though they know it is wrong.
+even though they know it is wrong;
+
+For own profit (e.g. being paid,
+or tricking others to invest into coin the shill owns;
+see `bcash).
 
 Some refuse to have a debate and instead paste `mumblejumbo
 or commit

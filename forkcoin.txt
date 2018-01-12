@@ -1,0 +1,8 @@
+Forkcoin is an cryptocurrency based on Bitcoin (so an `altcoin)
+that usully clones user ballances (so an `airdrop)
+AND in addition also shares Bitcoin history all the way up to point of fork.
+
+altcoin -> airdrop -> forkcoin
+
+Example: `bcash `b2x
+See: `forkcoin-make

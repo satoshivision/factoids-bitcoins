@@ -1,7 +1,7 @@
 FUD (Fear, Uncertanity, Doubt) are lies or half-thruths aimed
 to make people not use something.
 
-Many altcoiners (see `bcash) spread FUD about Bitcoin and it's improvements
+Many altcoiners (see `bcash) spread FUD about Bitcoin and its improvements
 like SegWit and LN
 to make you use their "solution" instead based on lie.
 

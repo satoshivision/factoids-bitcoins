@@ -1,15 +1,14 @@
 There is a `FUD about `segwit
-proposing that miners could steal all of Bitcoin SegWit
+lying that miners could easily steal all of Bitcoin SegWit
 transactions.
 
 This is a case of `fallacy-worse
 because they ommit the crucial information
 that executing such attack would require
-as much work as to attack anyway the "regular" Bitcoin;
+as much work as to attack anyway the "regular" Bitcoin:
 
-It would require to revert ALL BLOCKS back to 2017-08-01,
-so would cost billions of USD (and growing),
-and is therefore considered IMPOSSIBLE.
-
-(In addition checkpoints can block it too).
+would require to revert ALL BLOCKS back to 2017-08-01
+(allowing to doublespend it all),
+and would cost billions of USD (and growing)
+- so is therefore considered IMPOSSIBLE.
 
