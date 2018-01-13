@@ -8,5 +8,8 @@ See `edit to edit/add factoids.
 
 See `backtick if you can not find the "`" key.
 
-My name (a.k.a <satoshivision_tm>) is not actually trademarked,
-it's parody of `fallacy-authority.
+My name (a.k.a <satoshivision_tm>)
+tm (™) it parody/example of `fallacy-authority,
+see `whitepaper.
+
+See `bot-admin.
