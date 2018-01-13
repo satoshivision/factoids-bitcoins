@@ -1,1 +1,11 @@
-Factoids data can be viewed on http://mars.meshnet.pl/bitcoin-facts/ and edited/added on https://github.com/satoshivision/factoids-bitcoins ; Just make a Pull Request there ; Join #satoshivision to test or request changes ; Or poke my owners <marsadm> <rfree_irc>. Let's fight FUD and shills effortlessly :)
+Factoids list can be viewed on http://mars.meshnet.pl/bitcoin-facts/
+and edited/added on 
+https://github.com/satoshivision/factoids-bitcoins ;
+
+Just make a Pull Request there ;
+
+Join #satoshivision to test or request changes ;
+
+Or poke my owners <marsadm> <rfree_irc>.
+
+Let's fight FUD and shills effortlessly :)
