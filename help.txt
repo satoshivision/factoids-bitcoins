@@ -1,1 +1,12 @@
-I am a bot serving factoids (about Bitcoin), say "`FACTOID" for example say `satoshi or `bcash or `spv. See `edit to edit/add factoids. See `backtick if you can not find the "`" key on keyboard.
+I am a bot nicknamed satoshivision™ serving factoids
+as listed on http://mars.meshnet.pl/bitcoin-facts/
+to fight FUD.
+
+Say "`FUD" or "`spv" for example.
+
+See `edit to edit/add factoids.
+
+See `backtick if you can not find the "`" key.
+
+My name (a.k.a <satoshivision_tm>) is not actually trademarked,
+it's parody of `fallacy-authority.
