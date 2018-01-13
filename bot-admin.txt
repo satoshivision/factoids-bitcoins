@@ -1,0 +1,6 @@
+As admin of this bot (see `help) 
+you can
+reload modules by sending me PM "``reload".
+
+PM "``admin join #foo" will make me join chan #foo.
+
