@@ -1,0 +1,15 @@
+Cure to people proposing
+switch to BCash,
+B2X,
+other altcoins
+or other drastic increase in block size,
+is following:
+
+None of them can logically explain
+why they give up on decentralization
+and instead are o.k. with `spv wallet
+that gives all power over coin into few central miners.
+
+Some just reply with `mumbojumbo or `fallacy-person.
+Others realize that conservative block size has crucial benefits after all.
+
