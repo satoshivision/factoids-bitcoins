@@ -1,0 +1,8 @@
+Whitepaper of Bitcoin was released to describe first version of Bitcoin.
+
+Bitcoin evolved and diverged from ideas literally writen in old whitepaper,
+e.g. by adding new signature type (pay to script hash).
+
+Some `shills keep insisting on biblical devotion to orginal wording
+of Whitepaper
+where ever it serves their goals.
