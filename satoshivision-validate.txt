@@ -1,0 +1,7 @@
+Satoshi Vision (™) was to
+allow each user to validate the blockchain he downloads,
+to make sure the miners produce valid one,
+and do not cheat on rules or on coin supply.
+
+For example increasing the `blocksize
+makes it much harder to do (initial CPU and network use).

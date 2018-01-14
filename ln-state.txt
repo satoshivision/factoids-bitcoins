@@ -1,0 +1,9 @@
+Some `shills keep saying that Lightning Network (`LN) is not existing.
+
+That is another `FUD, 
+in reality:
+as of 2017-01-12
+TorGuard VPN commercial merchant is accepting real (BTC main-net) payments over Lightning.
+
+(How ever it is beta and not recommended to be fully solid, use it for this small payments
+where you have problems with `fees).

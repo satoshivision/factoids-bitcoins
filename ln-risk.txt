@@ -1,0 +1,10 @@
+Lightning Network is as secure as regular Layer-1 Bitcoin transactions,
+
+because it is based on them and you never give up ownership of your coins
+(you only freeze them for defined time in a smart contract
+that by defaults give your money back to you on Layer-1).
+
+Though until officially stable version is released,
+you could audit the generated transactions,
+or use `LN only for not too big value.
+

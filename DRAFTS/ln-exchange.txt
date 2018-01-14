@@ -1,0 +1,13 @@
+LN allows to use exchanges in safe way,
+that is
+the exchange can not
+run away
+or "get hacked"
+or steal
+your funds that you prepared to give them via LN.
+
+Therefore you can at cost of ~1 bitcoin tx
+open LN with say 0.1 BTC
+and then send to exchange even 0.00001 BTC one-by-one
+and getting paid (in altcoin or fiat).
+

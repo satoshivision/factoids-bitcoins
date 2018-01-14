@@ -1,0 +1,9 @@
+Some could argue that `whitepaper proposed
+to in future validate on large server farms.
+
+That is not about validating validity of blockchain though, because
+
+1) it was about mining (Satoshi called it "validating").
+2) it would make it much less p2p and much more centralized.
+
+Either way this is bad idea (see `spv) no matter who said what (`fallacy-authority)
